@@ -253,7 +253,7 @@ nav ul li a {
 
   @media (max-width: 600px) {
   .hero-content p {      
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   }
 }
 
@@ -361,7 +361,6 @@ nav ul li a {
 #about .about-descr .separator {
   margin-bottom: 0;
   text-align: justify;
-  letter-spacing: 1px;
 }
 
 /*--------------------------------------------------------------
