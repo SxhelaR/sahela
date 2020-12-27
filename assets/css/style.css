@@ -115,25 +115,6 @@ p {
   text-transform: uppercase;
 }
 
-.form-control {
-  background-color: transparent;
-  border: 1px solid #999;
-  border-radius: 0;
-  color: #999999;
-  font-size: 12px;
-  font-weight: 500;
-  height: 50px;
-  letter-spacing: 0.1em;
-  padding-left: 10px;
-  margin: 0 0 25px 0;
-  line-height: 14px;
-  text-transform: uppercase;
-}
-
-.form-control:focus {
-  box-shadow: none;
-  outline: 0 none;
-}
 
 .paddsection {
   padding-top: 90px;
@@ -207,10 +188,6 @@ nav ul li a {
   float: left;
 }
 
-.logo img {
-  width: 100px;
-  height: 50px;
-}
 
 .responsive {
   display: none;
@@ -229,11 +206,13 @@ nav ul li a {
   background: url("../img/home-bg.jpg") repeat scroll center center/cover;
   height: 100vh;
   width: 100%; 
+  background-attachment: fixed;
     }
 
      @media (max-width: 600px) {
   #hero {      
   background: url('../img/home-bg2.jpg') repeat scroll center center/cover;
+  background-attachment: fixed;
   }
 }
 
@@ -380,9 +359,9 @@ nav ul li a {
 }
 
 #about .about-descr .separator {
-  max-width: 80%;
   margin-bottom: 0;
-  text-align: left;
+  text-align: justify;
+  letter-spacing: 1px;
 }
 
 /*--------------------------------------------------------------
