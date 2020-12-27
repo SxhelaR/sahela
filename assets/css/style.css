@@ -244,7 +244,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color:  rgb(101, 123, 131);
 }
 
 .hero-content p {
@@ -253,7 +253,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: rgb(101, 123, 131);
   font-weight: 500;
 }
 
@@ -263,7 +263,7 @@ nav ul li a {
 }
 
 .hero-content .list-social li i {
-  color: #fff;
+  color: rgb(101, 123, 131);
   font-size: 15px;
 }
 
@@ -338,7 +338,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid rgb(101, 123, 131);
 }
 
 #about .div-img-bg .about-img img {
@@ -395,7 +395,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: rgb(101, 123, 131);
   line-height: 44px;
 }
 
@@ -421,7 +421,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: rgb(101, 123, 131);
 }
 
 .owl-nav {
