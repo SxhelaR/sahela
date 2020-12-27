@@ -211,7 +211,7 @@ nav ul li a {
 
      @media (max-width: 600px) {
   #hero {      
-  background: url('../img/home-bg2.jpg') repeat scroll center center/cover;
+  background: url('../img/home-bg2.jpg') left/cover;
   background-attachment: fixed;
   }
 }
