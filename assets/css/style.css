@@ -375,7 +375,7 @@ nav ul li a {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: rgb(101, 123, 131);
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -417,11 +417,11 @@ nav ul li a {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: rgb(101, 123, 131);
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: rgb(101, 123, 131);
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -464,7 +464,7 @@ nav ul li a {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #b8a07e !important;
+  background-color:rgb(101, 123, 131) !important;
 }
 
 .portfolio-details .portfolio-info {
